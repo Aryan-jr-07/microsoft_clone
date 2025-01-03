@@ -3,3 +3,15 @@
   font-size: 20px;  /* Adjust the size of the icon */
   vertical-align: middle; /* Aligns the icon with the text */
 }
+
+.dropdown-text {
+    font-size: 16px; /* Adjust font size */
+    font-family: Arial, sans-serif; /* Set font */
+    display: inline-flex;
+    align-items: center;
+  }
+  
+  .fas {
+    margin-left: 5px; /* Space between text and icon */
+    font-size: 12px; /* Adjust icon size */
+  }
