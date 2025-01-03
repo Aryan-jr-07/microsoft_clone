@@ -1,0 +1,5 @@
+.search-text .icon {
+  margin-left: 5px; /* Adds space between text and icon */
+  font-size: 20px;  /* Adjust the size of the icon */
+  vertical-align: middle; /* Aligns the icon with the text */
+}
